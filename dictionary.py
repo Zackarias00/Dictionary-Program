@@ -9,7 +9,7 @@ Created on Sat Jan  2 09:47:59 2021
 import json
 from difflib import get_close_matches
 
-data = json.load(open("/home/zackarias00/dictionary program/data.json"))
+data = json.load(open("/your file directory to json file attached/"))
 
 # Function that finds the word in the dictionary and returns it with the definition
 
